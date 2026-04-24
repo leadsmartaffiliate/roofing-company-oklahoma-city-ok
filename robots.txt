@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-company-oklahoma-city-ok.netlify.app/sitemap.xml
